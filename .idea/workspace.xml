@@ -4,12 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a3fdc9e6-b4dd-41ba-8987-85ddb0cb1b1c" name="Changes" comment="" />
+=======
+    <list default="true" id="368d945f-3e55-4e25-820a-813b72f43500" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Array Processing Squares of numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AsyncArrayProcessing.java" afterDir="false" />
+    </list>
+>>>>>>> master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -30,6 +43,15 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2ouDtdH116esnRa2uBXNj9f1DvP" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2q5aGpx3RsbTzA5u3FiaLf6CzrU" />
+>>>>>>> master
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,6 +60,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AsyncArrayProcessing.executor": "Run",
+<<<<<<< HEAD
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.AsyncArrayProcessingTest.executor": "Run",
@@ -48,12 +71,22 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/3_kurs/Асинхрон/PR2/Async Array Processing Squares of numbers",
+=======
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/3_kurs/Асинхрон/PR2/Assync",
+>>>>>>> master
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
     "onboarding.tips.debug.path": "D:/3_kurs/Асинхрон/Async Array Processing Squares of numbers/src/Main.java",
+=======
+    "onboarding.tips.debug.path": "D:/3_kurs/Асинхрон/PR3/Assync/src/Main.java",
+>>>>>>> master
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,6 +101,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="a3fdc9e6-b4dd-41ba-8987-85ddb0cb1b1c" name="Changes" comment="" />
       <created>1731710789949</created>
       <option name="number" value="Default" />
@@ -77,6 +111,16 @@
       <workItem from="1731788043371" duration="3249000" />
       <workItem from="1733663460840" duration="2223000" />
       <workItem from="1733947709451" duration="304000" />
+=======
+      <changelist id="368d945f-3e55-4e25-820a-813b72f43500" name="Changes" comment="" />
+      <created>1733954798233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733954798233</updated>
+      <workItem from="1733954799380" duration="124000" />
+      <workItem from="1733955153471" duration="78000" />
+      <workItem from="1734536962882" duration="510000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
